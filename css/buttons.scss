@@ -1,0 +1,25 @@
+.nav_button
+{
+	height: 50px;
+	width: 14.2857%;
+	border-width: 0px;
+	margin-left: -.30em;
+	color: gray;
+	outline: none;
+}
+
+.nav_button:hover
+{
+	color: black;
+}
+
+.logo_button
+{
+	background: url(../content/logo.png) no-repeat center;
+	margin: 0;
+}
+
+.nb_active
+{
+	color: black;
+}
